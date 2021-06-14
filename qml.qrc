@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>data/images/quwi.png</file>
+        <file>qml/pages/homePage.qml</file>
+        <file>qml/pages/loginPage.qml</file>
+        <file>qml/ui/CustomButton.qml</file>
+        <file>qml/ui/CustomTextField.qml</file>
+    </qresource>
+</RCC>
